@@ -89,6 +89,8 @@ contract Owner {
 }
 ```
 
+<tryit fileName={ '1-typical_contract.sol' } />
+
 :::
 
 这个Solidity合约实现了一个简单的 `owner` 管理功能，可以用来设置、管理和删除合约的 `owner` 。它定义了一些结构体、枚举、事件、函数修饰器、状态变量和函数。我们逐个拆解来看看每一个组成结构。
